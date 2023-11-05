@@ -16,6 +16,10 @@ image quality indicators and subjective visual effects on challenging RTTS, URHI
 has superior performance and is better than the current state-of-the-art methods.*
 <hr />
 
+
+#Train_weight:链接：https://pan.baidu.com/s/1HETnxLCTxjHRsBg2STwsHQ 
+提取码：n2k4
+
 ## Requirement
 
 - Python 3.7
