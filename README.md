@@ -30,13 +30,13 @@ See more details in [[paper]](https://ieeexplore.ieee.org/document/10564179)
 
 Our test run is simple, just change the input and output paths according to your requirements
 
+```
+python KA_net_test.py
+```
 ## Train
 
 Please note that due to time, our training code is not fully sorted out yet, but it won't take long, so stay tuned
 
-```
-python KA_net_test.py
-```
 
 ## Qualitative Results
 
