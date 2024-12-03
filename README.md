@@ -23,8 +23,8 @@ See more details in [[paper]](https://ieeexplore.ieee.org/document/10564179)
 ## Pretrained Weights & Dataset
 
 1. Download [Dehaze weights](https://pan.baidu.com/s/1HETnxLCTxjHRsBg2STwsHQ) and Extraction code: [n2k4]
-
-2. Our training data will be released once it's sorted out
+2. We release part of the data used for training, please download them if you need.(https://pan.baidu.com/s/1uyNkZ140VgMhO3Ogbwn9Tw) and Extraction code:[xzqc]
+3. (**Note that the final complete version of the data and synthetic code will be released soon.) 
 
 ## Test
 
